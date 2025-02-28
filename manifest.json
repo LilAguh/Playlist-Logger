@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "M3U8 Logger",
+  "version": "1.0.0",
+  "description": "Capture all m3u8 from a page",
+  "icons": {
+    "128": "logo.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
